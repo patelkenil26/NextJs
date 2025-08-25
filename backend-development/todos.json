@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "text": "Learn Nodejs",
+    "completed": true
+  },
+  {
+    "id": "3",
+    "text": "HTML Learn",
+    "completed": true
+  },
+  {
+    "id": "4",
+    "text": "Master CSS",
+    "completed": true
+  },
+  {
+    "id": "5",
+    "text": "Learn ReactJS",
+    "completed": false
+  },
+  {
+    "id": "6",
+    "text": "Master NextJs",
+    "completed": false
+  },
+  {
+    "id": "7",
+    "text": "Advance Backend in ExpressJS",
+    "completed": true
+  },
+  {
+    "id": "524c99c4-924a-4c05-b77e-78b0646a315e",
+    "text": "Learn DSA",
+    "completed": true
+  },
+  {
+    "id": "fde1504a-b66c-445f-a8a6-83445b9a4c92",
+    "text": "Learn DBMS",
+    "completed": true
+  },
+  {
+    "id": "18767610-b55f-4bde-82f4-ac40d3294e56",
+    "text": "Machine Learning",
+    "completed": true
+  }
+]
